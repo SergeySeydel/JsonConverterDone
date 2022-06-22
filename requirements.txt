@@ -4,7 +4,7 @@ et-xmlfile==1.0.1
 excel2json-3==0.1.6
 idna==2.9
 jdcal==1.4.1
-numpy==1.18.2
+numpy==1.22.0
 openpyxl==3.0.3
 Pillow==7.1.2
 PySimpleGUI==4.16.0
